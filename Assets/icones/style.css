@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?52ym1a');
+  src:  url('fonts/icomoon.eot?52ym1a#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?52ym1a') format('truetype'),
+    url('fonts/icomoon.woff?52ym1a') format('woff'),
+    url('fonts/icomoon.svg?52ym1a#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* icone insta*/
+.icon-Prancheta-1-cpia-2:before {
+  content: "\e900";
+}
+/* logo color*/
+.icon-Prancheta-1-cpia-3 .path1:before {
+  content: "\e901";
+  color: rgb(255, 236, 0);
+}
+.icon-Prancheta-1-cpia-3 .path2:before {
+  content: "\e902";
+  margin-left: -1em;
+  color: rgb(0, 156, 225);
+}
+.icon-Prancheta-1-cpia-3 .path3:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(227, 0, 125);
+}
+/* logo sem cor*/
+.icon-Prancheta1cpia3:before {
+  content: "\e904";
+}
+/* menu*/
+.icon-Prancheta-1-cpia-4:before {
+  content: "\e905";
+}
+/* facebook*/
+.icon-Prancheta-1-cpia:before {
+  content: "\e906";
+ 
+}
+/* whats*/
+.icon-Prancheta-1:before {
+  content: "\e907";
+}
